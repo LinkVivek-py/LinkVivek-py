@@ -17,8 +17,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=viveksen007&icon=2&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
