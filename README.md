@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+JARVIS-style+Systems" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Building autonomous, J.A.R.V.I.S.-style systems using Python, computer vision, and machine learning to push the boundaries of personal AI assistants.<br><br>👯 I’m looking to collaborate on Open-source robotics projects, advanced machine learning frameworks, or innovative Computer Science research that solves complex, real-world problems.<br><br>🤝 I’m looking for help with Mastering geometric figure drawing and sketching techniques to better visualize system architectures and design concepts.<br><br>🌱 I’m currently learning The intricacies of cognitive psychology and strategy (currently reading Robert Greene) to build more intuitive and human-centric AI logic.<br><br>💬 Ask me about Artificial Intelligence, preparation strategies for the CSE exam, or the best technical universities in Northern Europe for a Master's degree.<br><br>⚡ Fun fact I once managed a massive data migration of over 300GB across different cloud platforms using custom scripts—it was a digital workout!
 
@@ -17,7 +23,10 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viveksen007&theme=tokyo-night)](https://github.com/viveksen007)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=viveksen007&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksen007&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ### 🏆 GitHub Trophy Case
 [![trophy](https://github-profile-trophy.vercel.app/?username=viveksen007&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
