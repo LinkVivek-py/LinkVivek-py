@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+JARVIS-style+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=Vivek+Sen;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Bots" />
 </p>
 
 # 💫 About Me:
