@@ -15,21 +15,9 @@
 - Advanced ML frameworks
 - Innovative CS research
 
-🤝 Currently improving:
-- Geometric figure drawing
-- Sketching & visualization
-
-🌱 Learning:
-- Cognitive psychology
-- Human-centric AI logic
-
 💬 Ask me about:
 - Artificial Intelligence
 - CSE preparation
-
-⚡ Fun fact:
-Migrated 300GB+ across cloud platforms using custom automation scripts.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viveklackbraincells) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.cosmic007@gmail.com) 
