@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viveksen007/viveksen007/main/Assets/banner.jpg" />
+  <img src="https://raw.githubusercontent.com/LinkVivek-py/LinkVivek-py/main/Assets/banner.jpg" />
 </p>
 
 <p align="center">
@@ -30,25 +30,25 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viveksen007&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LinkVivek-py&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viveksen007&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinkVivek-py&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=viveksen007&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=LinkVivek-py&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksen007&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinkVivek-py&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
 ### 🏆 GitHub Trophy Case
-[![trophy](https://github-profile-trophy.vercel.app/?username=viveksen007&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LinkVivek-py&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viveksen007&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=viveksen007&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=LinkVivek-py&icon=2&color=4)](https://visitcount.itsvg.in)
