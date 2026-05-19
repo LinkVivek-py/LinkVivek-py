@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=Vivek+Sen;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Bots" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=Vivek;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Bots" />
 </p>
 
 # 💫 About Me:
