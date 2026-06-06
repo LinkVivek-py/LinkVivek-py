@@ -3,21 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=Vivek;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Bots" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=Vivek;AI+%26+Machine+Learning+Engineer;Python+Developer;Building+J.A.R.V.I.S.-Style+Systems;Open+Source+Enthusiast" />
 </p>
 
-# 💫 About Me:
+## 🚀 About Me
 
-🔭 Building autonomous J.A.R.V.I.S.-style systems using Python, Computer Vision, and Machine Learning.
+🔭 Building J.A.R.V.I.S.-style AI assistants
 
-👯 Looking to collaborate on:
-- Open-source robotics
-- Advanced ML frameworks
-- Innovative CS research
+🌱 Learning Machine Learning, Computer Vision & LLMs
 
-💬 Ask me about:
-- Artificial Intelligence
-- CSE preparation
+🤖 Passionate about AI Automation & Bot Development
+
+👯 Open to collaborating on AI and Open Source projects
+
+⚡ Fun fact: I enjoy turning ideas into working systems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viveklackbraincells) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.cosmic007@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/871321517504475157)
@@ -28,9 +27,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LinkVivek-py&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinkVivek-py&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinkVivek-py&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkVivek-py&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -43,7 +42,10 @@
 
 
 ### 🏆 GitHub Trophy Case
-[![trophy](https://vercel.app)](https://github.com)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LinkVivek-py&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
