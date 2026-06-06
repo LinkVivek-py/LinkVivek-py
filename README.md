@@ -73,5 +73,3 @@ A collection of ML experiments, models, and real-world datasets.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-[![](https://komarev.com/ghpvc/?username=LinkVivek-py&icon=2&color=4)](https://visitcount.itsvg.in)
