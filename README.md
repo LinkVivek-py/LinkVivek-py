@@ -43,7 +43,7 @@
 
 
 ### 🏆 GitHub Trophy Case
-[![trophy](https://github-profile-trophy.vercel.app/?username=LinkVivek-py&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://vercel.app)](https://github.com)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
