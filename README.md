@@ -53,8 +53,6 @@ Building AI, Automation & Intelligent Systems
   <img src="https://github-profile-trophy.vercel.app/?username=LinkVivek-py&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## 🌟 Featured Projects
 
@@ -72,5 +70,8 @@ A collection of ML experiments, models, and real-world datasets.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LinkVivek-py&label=Profile%20Views&color=A277FF&style=for-the-badge"/>
 </p>
----
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 [![](https://komarev.com/ghpvc/?username=LinkVivek-py&icon=2&color=4)](https://visitcount.itsvg.in)
