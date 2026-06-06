@@ -56,5 +56,21 @@ Building AI, Automation & Intelligent Systems
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LinkVivek-py&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+## 🌟 Featured Projects
+
+### 🤖 AI Assistant
+Personal intelligent assistant powered by Python and AI technologies.
+
+### 🎵 Discord Music Bot
+Advanced Discord bot with Lavalink integration and music streaming.
+
+### 📊 Machine Learning Projects
+A collection of ML experiments, models, and real-world datasets.
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LinkVivek-py&label=Profile%20Views&color=A277FF&style=for-the-badge"/>
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=LinkVivek-py&icon=2&color=4)](https://visitcount.itsvg.in)
