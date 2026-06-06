@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/LinkVivek-py/LinkVivek-py/main/Assets/banner.jpg" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+
+<h3 align="center">
+Building AI, Automation & Intelligent Systems
+</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=Vivek;AI+%26+Machine+Learning+Engineer;Python+Developer;Building+J.A.R.V.I.S.-Style+Systems;Open+Source+Enthusiast" />
 </p>
@@ -33,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LinkVivek-py&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=LinkVivek-py&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
