@@ -75,10 +75,3 @@ Advanced Discord bot with Lavalink integration and music streaming.
 
 ### 📊 Machine Learning Projects
 A collection of ML experiments, models, and real-world datasets.
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LinkVivek-py&label=Profile%20Views&color=A277FF&style=for-the-badge"/>
-</p>
-
